@@ -58,7 +58,7 @@ li {
     padding: 2px;
     transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
-    margin: 4px;
+    margin: 5px 10px;
 }
 
 form {
